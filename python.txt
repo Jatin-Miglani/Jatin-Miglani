@@ -1,0 +1,23 @@
+#solving the quadratic equation
+#ax^2+bx+c=0
+
+#important relevant Modules
+
+import cmath  #Complex math module
+
+#solve quadratic Formulae
+a=int(input( "Input a: "))
+b=int(input( "Input b: "))
+c=int(input( "Input c: "))
+
+#Calculate the discriminant
+d=(b**2)-(4*a*c)
+
+#Calculate the formulae
+Solution1=(-b + cmath.sqrt(d))/(2*a)
+Solution2=(-b - cmath.sqrt(d))/(2*a)
+
+#print the solution
+
+print("The solutions to the quadratic equation are {} and {}",Solution1,Solution2)
+
