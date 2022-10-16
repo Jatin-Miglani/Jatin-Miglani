@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jatin Miglani</h1>
 
 <h3 align="center">A passionate Programmer from India</h3>
-<img align="left" width="70" height="70" src="https://cdn.wallpapersafari.com/43/76/BeCMbG.jpg">
+<img align="right" width="70" height="70" src="https://cdn.wallpapersafari.com/43/76/BeCMbG.jpg">
 
-<img align="left" alt="Coding" width="40" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif">
+<img align="right" alt="Coding" width="40" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-miglani&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-miglani" /> </p>
 
