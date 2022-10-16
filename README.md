@@ -1,5 +1,6 @@
 # JatinMiglani
 <h1 align="center">Hi 👋, I'm Jatin Miglani</h1>
+<img src="https://cdn.wallpapersafari.com/43/76/BeCMbG.jpg">
 <h3 align="center">A passionate Programmer from India</h3>
 
 <img align="right" alt="Coding" width="40" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif">
