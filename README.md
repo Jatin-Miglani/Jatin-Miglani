@@ -10,8 +10,6 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jatin-miglani&theme=discord" alt="jatin-miglani" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatin-miglani" alt="jatin-miglani" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jatinmiglani111" target="blank"><img src="https://img.shields.io/twitter/follow/jatinmiglani111?logo=twitter&style=for-the-badge" alt="jatinmiglani111" /></a> </p>
 
 - 🔭 I’m currently pursuing my **Btech CSE**
